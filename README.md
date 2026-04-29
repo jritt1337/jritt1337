@@ -3,6 +3,12 @@ Take a look at some of my projects!
 
 ## Microsoft Azure
 
+## Windows
+
+## Linux
+
+## MacOS
+
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
