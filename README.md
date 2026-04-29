@@ -1,4 +1,7 @@
-## Hi! I'm Josh, an aspiring IT Professional.
+## Hello there! I'm Josh, and I'm an IT Professional.
+Take a look at some of my projects!
+
+#Microsoft Azure
 
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
