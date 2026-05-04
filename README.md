@@ -4,13 +4,6 @@ Take a look at some of my projects!
 ## Microsoft Azure
 - [On-Premesis Active Directory Deployed using Microsoft Azure](https://github.com/jritt1337/Azure-AD)
 
-
-## Windows
-
-## Linux
-
-## MacOS
-
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
