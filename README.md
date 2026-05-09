@@ -1,8 +1,8 @@
-# Hello there! I'm Josh, and I'm an IT Professional.
-Take a look at some of my projects!
+# Hello there! I'm Josh, and I'm an IT Professional!
+I'm a tech enthusiast with a passion for working with computers and anything tech related. I hope that this will serve as a place to document some of my endeavors. Have a look at some of my projects!
 
 ## Microsoft Azure
-- [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD)
+- [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) (under cleanup)
 
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
