@@ -1,5 +1,5 @@
 # Hello there! I'm Josh, and I'm an IT Professional!
-I'm a tech enthusiast with a passion for working with computers and anything tech related. I hope that this will serve as a place to document some of my endeavors. Have a look at some of my projects!
+I'm a tech enthusiast with a passion for working with computers and anything tech related. I've always had a knack with picking up and learning most technologies I interact with. I've a familiarity with Windows, Linux, and more recently MacOS. I hope that this will serve as a place to document some of my endeavors. Have a look at some of my projects!
 
 ## Microsoft Azure
 - [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) (under cleanup)
