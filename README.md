@@ -4,6 +4,9 @@ I'm a tech enthusiast with a passion for working with computers and anything tec
 ## Microsoft Azure
 - [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) (under cleanup)
 
+### macOS
+- Automated software deployment for macOS workstations using Homebrew and shell scripting. (Coming soon!)
+
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
