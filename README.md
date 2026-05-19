@@ -2,10 +2,10 @@
 I'm a tech enthusiast with a passion for working with computers and anything tech related. I've always had a knack with picking up and learning most technologies I interact with. I've a familiarity with Windows, Linux, and more recently MacOS. I hope that this will serve as a place to document some of my endeavors. Have a look at some of my projects!
 
 ## Microsoft Azure
-- [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) (under cleanup)
+- [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) 
 
 ### macOS
-- Automated software deployment for macOS workstations using Homebrew and shell scripting. (Coming soon!)
+- [macOS Workstation Deployment Lab](https://github.com/jritt1337/macos-deployment-lab/) (UNDER CONSTRUCTION)
 
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
