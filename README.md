@@ -5,7 +5,7 @@ I'm a tech enthusiast with a passion for working with computers and anything tec
 - [Deploying and Managing Active Directory in Microsoft Azure](https://github.com/jritt1337/Azure-AD) 
 
 ### macOS
-- [macOS Workstation Deployment Lab](https://github.com/jritt1337/macos-deployment-lab/) (UNDER CONSTRUCTION)
+- [macOS Workstation Deployment Lab](https://github.com/jritt1337/macos-deployment-lab/)
 
 <!--
 **jritt1337/jritt1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
